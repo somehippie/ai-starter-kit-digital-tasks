@@ -546,6 +546,18 @@ produce a caught fabrication rather than a summary of the concept.
 
 ## Repository history
 
+### 2026-10-03, Related section added
+
+The README gains a short Related section linking life-starter-kit, a separate
+project of practical starter kits for everyday life. Repository only: the
+curriculum document is unchanged, so the version stays 0.10 and no tag was
+added.
+
+The link says explicitly that life-starter-kit is not a Booster Pack. Part 8
+uses that name for the advanced follow-on courses, which are still an open
+design question, and a README heading that called another project a booster
+pack would have answered that question by accident.
+
 ### 2026-09-21, AI access guidance rewritten
 
 A report claimed the raw links were unreachable, diagnosing either an unpushed

@@ -104,6 +104,10 @@ Two caveats before you rely on a summary. The curriculum is long enough that a t
 
 Version 0.10. This is an active design document, not a finished product — Part 8 lists open design questions the author is still working through, and the curriculum has not yet completed a full facilitator pilot. Treat figures and cited statistics as accurate as of the version date; several (energy/water-per-query estimates in particular) are explicitly flagged in the document as having a short shelf life and needing periodic re-verification.
 
+## Related
+
+- **[life-starter-kit](https://github.com/somehippie/life-starter-kit)** — practical starter kits for other parts of everyday life (home, supplements, drones), from the same author. A separate project with its own scope and sources. It is not part of this curriculum, and it is not one of the Booster Packs, the advanced follow-on courses described in Part 8.
+
 ## Contributing
 
 Suggestions, corrections, and pilot-run feedback are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Please open an issue before a large pull request so the change can be discussed against the curriculum's design rationale (Part 1 and Part 8 of the doc explain a lot of decisions that look arbitrary until you've read the reasoning behind them).
