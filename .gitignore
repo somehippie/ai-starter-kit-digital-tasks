@@ -23,3 +23,7 @@ HANDOFF.md
 # publishable file — a learner-facing "audit your own reliance" worksheet, say.
 # If a git add silently does nothing, this block is why. Narrow the pattern
 # then, not pre-emptively.
+
+# Local-only scan patterns. Never commit the terms you are scanning for.
+.pii-extra-patterns
+.msg-blocklist
